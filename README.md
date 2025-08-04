@@ -51,4 +51,4 @@ Visualize the impact through clear, insightful charts
 📬 Contact
 Feel free to reach out if you want to collaborate or ask about the project.
 
-Made with  by ❤️ Anmol Dhiman.
+Made with ❤️ by Anmol Dhiman.
